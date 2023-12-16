@@ -1,6 +1,6 @@
 # PorofessorLobbyReveal
 
-Updated to work with the last Riot ID changes<br />
+Updated to work with the last Riot ID changes.<br />
 Pulls names along with tags and creates a Porofessor champion select link
 
 # How to download and use
